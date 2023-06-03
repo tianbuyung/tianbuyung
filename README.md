@@ -32,8 +32,15 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianbuyung)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tianbuyung)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tianbuyung&show_icons=true&locale=en&layout=compact" alt="tianbuyung" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tianbuyung&show_icons=true&locale=en" alt="tianbuyung" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tianbuyung&" alt="tianbuyung" /></p>
+
+---
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tianbuyung" alt="tianbuyung" /></a> </p>
 
 <!--
 **tianbuyung/tianbuyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
