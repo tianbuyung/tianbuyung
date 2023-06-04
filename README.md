@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="dev-pixel.png" alt= “tian-dev-pixel” width="30%" height="30%">
+
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Counter View"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Septian Maulana</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Indonesia</h3>
 
@@ -11,19 +17,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <div id="header" align="center">
-<div id="badges">
-  <a href="https://www.linkedin.com/in/septian-maulana/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://tianbuyung.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="https://twitter.com/tianbuyung">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Counter View"/>
+<div id="header" align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/septian-maulana/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://tianbuyung.medium.com/">
+      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
+    <a href="https://twitter.com/tianbuyung">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
 </div>
 </p>
 
@@ -32,11 +37,11 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tianbuyung&show_icons=true&locale=en&layout=compact" alt="tianbuyung" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tianbuyung&show_icons=true&locale=en&layout=compact" alt="tianbuyung" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tianbuyung&show_icons=true&locale=en" alt="tianbuyung" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tianbuyung&show_icons=true&locale=en" alt="tianbuyung" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tianbuyung&" alt="tianbuyung" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tianbuyung&" alt="tianbuyung" /></p>
 
 ---
 
