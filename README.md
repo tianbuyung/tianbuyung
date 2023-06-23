@@ -1,17 +1,13 @@
 <div align="center">
-  <img src="dev-pixel.png" alt= “tian-dev-pixel” width="30%" height="30%">
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Counter View"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Septian Maulana</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Flance Team](https://github.com/flance-team)
+- 🔭 I’m currently looking a job for **Full Stack Developer**
 
-- 🌱 I’m currently learning **Solidity and Angular**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **Everything about JavaScript and TypeScript**
 
@@ -44,10 +40,6 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tianbuyung&show_icons=true&locale=en" alt="tianbuyung" /></p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tianbuyung&" alt="tianbuyung" /></p>
-
----
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tianbuyung" alt="tianbuyung" /></a> </p>
 
 <!--
 **tianbuyung/tianbuyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
