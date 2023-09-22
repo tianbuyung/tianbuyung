@@ -39,7 +39,7 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tianbuyung&show_icons=true&locale=en" alt="tianbuyung" /></p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tianbuyung&" alt="tianbuyung" /></p>
+<p align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=tianbuyung)](https://git.io/streak-stats)</p>
 
 <!--
 **tianbuyung/tianbuyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
