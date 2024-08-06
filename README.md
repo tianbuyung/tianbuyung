@@ -2,12 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Counter View"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Septian Maulana</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.tianweb.dev/">Septian Maulana</a></h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
 - 🔭 I’m currently looking a job for **Full Stack Developer**
 
-- 🌱 I’m currently learning **Solidity Language and Strapi Framework**
+- 🌱 I’m currently learning **Solidity Language and Web3**
 
 - 💬 Ask me about **Everything about JavaScript and TypeScript**
 
