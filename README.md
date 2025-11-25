@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Counter View"/>
+  <img src="https://komarev.com/ghpvc/?username=tianbuyung&style=flat-square&color=blue" alt="Counter View"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm <a href="https://www.tianweb.dev/">Septian Maulana</a></h1>
